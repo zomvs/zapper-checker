@@ -2,16 +2,20 @@
 
 check addrlist Balance
 
-## 1 
+## 1  chrome
+```shell
 install chrome
-
-## 2 
-install chromedriver
-
-## 3
 ```
+## 2 chromedriver
+```shell
+install chromedriver
+```
+## 3 shell
+```shell
 pip install selenium
 ```
 
-## 4 
+## 4 run 
+```shell
 run
+```
